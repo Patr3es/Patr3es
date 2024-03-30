@@ -1,4 +1,4 @@
-# Pat</sub>
+# Pat</sub>(Pronounced as 'Stuck')</sub>
 
 Currently working as a Software Engineer
 
