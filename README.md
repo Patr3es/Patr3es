@@ -6,7 +6,7 @@ Currently working as a Software Engineer
 
 Hi, here's a brief summary of my work over the years.
 
-- Worked 1 years at [Ultra.io](https://ultra.io) and built wallets, protocol changes, visual studio code extensions, applications, ci/cd pipelines, smart contracts, and decentralized applications.
+- Worked 1 year at [Ultra.io](https://ultra.io) and built wallets, protocol changes, visual studio code extensions, applications, ci/cd pipelines, smart contracts, and decentralized applications.
   - Created their 1st Proof of Concept Wallet
 
 - Built a 400+ File GTA:V Roleplay Framework for alt:V with TypeScript, Vue, and MongoDB
